@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+    text-align: center;
+}
+
+div {
+    position: relative;
+}
+
+button {
+    background-color: black;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+}
+
+.card-img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 20px; 
+}
